@@ -1,6 +1,6 @@
-**Cinemagrapher Frontend**
+#Front-end for Cinemagrapher.co Alpha Release
 
-Frontend for Cinemagrapher.co
+## [Cinemagrapher](http://www.cinemagrapher.co/)
 
 Move beyond photographs!
 
