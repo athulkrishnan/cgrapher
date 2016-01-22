@@ -1,4 +1,4 @@
-#Front-end for Cinemagrapher.co Alpha Release
+#Front-end for Cinemagrapher.co [Alpha Release]
 
 ## [Cinemagrapher](http://www.cinemagrapher.co/)
 
